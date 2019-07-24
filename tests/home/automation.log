@@ -1,0 +1,787 @@
+06/22/2019 09:04:08 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+06/22/2019 09:04:30 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+06/22/2019 09:04:30 PM - MainPage - INFO: Element not found with locator: //*[contains(text(),' ³����, ')] and  locatorType: xpath
+06/22/2019 09:04:30 PM - MainPage - INFO: Element not found
+06/22/2019 09:04:45 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+06/22/2019 09:05:08 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+06/22/2019 09:05:08 PM - MainPage - INFO: Element not found with locator: //*[contains(text(),' ³����, ')] and  locatorType: xpath
+06/22/2019 09:05:08 PM - MainPage - INFO: Element not found
+07/06/2019 11:24:14 AM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/06/2019 11:24:15 AM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/06/2019 11:24:15 AM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/06/2019 11:24:15 AM - MainPage - INFO: Element Found
+07/06/2019 11:24:18 AM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 11:24:18 AM - MainPage - INFO: Cannot click on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 11:24:21 AM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 11:24:21 AM - MainPage - INFO: Cannot click on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 11:24:24 AM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 11:24:24 AM - MainPage - INFO: Cannot send data on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 11:24:27 AM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/06/2019 11:24:27 AM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/06/2019 11:24:30 AM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/06/2019 11:24:30 AM - MainPage - INFO: Element not found
+07/06/2019 11:24:35 AM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 11:24:35 AM - MainPage - INFO: Cannot click on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 11:24:38 AM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 11:24:38 AM - MainPage - INFO: Cannot send data on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 11:24:41 AM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/06/2019 11:24:41 AM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/06/2019 11:24:41 AM - MainPage - INFO: Element not found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/06/2019 11:24:41 AM - MainPage - INFO: Element not found
+07/06/2019 12:02:14 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/06/2019 12:02:16 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/06/2019 12:02:16 PM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/06/2019 12:02:16 PM - MainPage - INFO: Element Found
+07/06/2019 12:02:19 PM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 12:02:19 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 12:02:22 PM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 12:02:22 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 12:02:25 PM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 12:02:25 PM - MainPage - INFO: Cannot send data on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 12:02:28 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/06/2019 12:02:28 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/06/2019 12:02:31 PM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/06/2019 12:02:31 PM - MainPage - INFO: Element not found
+07/06/2019 12:02:35 PM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 12:02:35 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 12:02:38 PM - MainPage - INFO: Element not found with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] and  locatorType: xpath
+07/06/2019 12:02:38 PM - MainPage - INFO: Cannot send data on the element with locator: //*[@class='search-form__input ng-pristine ng-valid ng-touched'] locatorType: XPATH
+07/06/2019 12:02:41 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/06/2019 12:02:41 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/06/2019 12:02:44 PM - MainPage - INFO: Element not found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/06/2019 12:02:44 PM - MainPage - INFO: Element not found
+07/06/2019 12:02:44 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/06/2019 12:02:45 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/06/2019 12:02:45 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/06/2019 12:02:45 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/06/2019 12:02:45 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/06/2019 12:02:45 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/06/2019 12:02:45 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/06/2019 12:02:45 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/06/2019 12:02:48 PM - LoginPage - INFO: Element not found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/06/2019 12:02:48 PM - LoginPage - INFO: Element not found
+07/10/2019 05:57:21 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/10/2019 05:57:22 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/10/2019 05:57:22 PM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/10/2019 05:57:22 PM - MainPage - INFO: Element Found
+07/10/2019 05:57:22 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/10/2019 05:57:23 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/10/2019 05:57:23 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/10/2019 05:57:23 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/10/2019 05:57:23 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/10/2019 05:57:23 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/10/2019 05:57:23 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/10/2019 05:57:23 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/10/2019 05:57:25 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/10/2019 05:57:25 PM - LoginPage - INFO: Element Found
+07/10/2019 05:57:30 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 05:57:30 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 05:57:30 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 05:57:30 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 05:57:30 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 05:57:30 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 05:57:33 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/10/2019 05:57:39 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/10/2019 05:57:39 PM - MainPage - INFO: Element Found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/10/2019 05:57:39 PM - MainPage - INFO: Element Found
+07/10/2019 05:57:42 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 05:57:42 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 05:57:45 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 05:57:45 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 05:57:48 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 05:57:48 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 05:57:54 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/10/2019 05:57:54 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/10/2019 05:57:57 PM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/10/2019 05:57:57 PM - MainPage - INFO: Element not found
+07/10/2019 06:11:50 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/10/2019 06:11:51 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/10/2019 06:11:51 PM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/10/2019 06:11:51 PM - MainPage - INFO: Element Found
+07/10/2019 06:11:52 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/10/2019 06:11:52 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/10/2019 06:11:52 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/10/2019 06:11:52 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/10/2019 06:11:52 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/10/2019 06:11:52 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/10/2019 06:11:52 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/10/2019 06:11:52 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/10/2019 06:11:53 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/10/2019 06:11:53 PM - LoginPage - INFO: Element Found
+07/10/2019 06:11:58 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 06:11:58 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 06:11:58 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 06:11:58 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 06:11:58 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 06:11:58 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 06:12:01 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/10/2019 06:12:21 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/10/2019 06:12:21 PM - MainPage - INFO: Element Found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/10/2019 06:12:21 PM - MainPage - INFO: Element Found
+07/10/2019 06:12:24 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 06:12:24 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 06:12:27 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 06:12:27 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 06:12:31 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 06:12:31 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 06:12:37 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/10/2019 06:12:37 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/10/2019 06:12:40 PM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/10/2019 06:12:40 PM - MainPage - INFO: Element not found
+07/10/2019 07:33:57 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/10/2019 07:33:58 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/10/2019 07:33:58 PM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/10/2019 07:33:58 PM - MainPage - INFO: Element Found
+07/10/2019 07:33:58 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/10/2019 07:33:58 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/10/2019 07:33:58 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/10/2019 07:33:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/10/2019 07:33:59 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/10/2019 07:33:59 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/10/2019 07:33:59 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/10/2019 07:33:59 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/10/2019 07:33:59 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/10/2019 07:33:59 PM - LoginPage - INFO: Element Found
+07/10/2019 07:34:04 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 07:34:04 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 07:34:04 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 07:34:04 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 07:34:04 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/10/2019 07:34:04 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/10/2019 07:34:07 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/10/2019 07:34:09 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/10/2019 07:34:09 PM - MainPage - INFO: Element not found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/10/2019 07:34:09 PM - MainPage - INFO: Element not found
+07/11/2019 11:04:12 AM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/11/2019 11:04:14 AM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/11/2019 11:04:15 AM - MainPage - INFO: Element not found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/11/2019 11:04:15 AM - MainPage - INFO: Element not found
+07/11/2019 11:11:02 AM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/11/2019 11:11:05 AM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/11/2019 11:11:05 AM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/11/2019 11:11:05 AM - MainPage - INFO: Element Found
+07/11/2019 11:11:05 AM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/11/2019 11:11:05 AM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/11/2019 11:11:05 AM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/11/2019 11:11:05 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/11/2019 11:11:05 AM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/11/2019 11:11:05 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/11/2019 11:11:05 AM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/11/2019 11:11:05 AM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/11/2019 11:11:06 AM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/11/2019 11:11:06 AM - LoginPage - INFO: Element Found
+07/11/2019 11:11:11 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:11:11 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:11:11 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:11:11 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:11:11 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:11:11 AM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:11:14 AM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/11/2019 11:11:20 AM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/11/2019 11:11:20 AM - MainPage - INFO: Element Found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/11/2019 11:11:20 AM - MainPage - INFO: Element Found
+07/11/2019 11:11:23 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:11:23 AM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:11:26 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:11:26 AM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:11:29 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:11:29 AM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:11:35 AM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/11/2019 11:11:35 AM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/11/2019 11:11:38 AM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/11/2019 11:11:38 AM - MainPage - INFO: Element not found
+07/11/2019 11:14:37 AM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/11/2019 11:14:38 AM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/11/2019 11:14:38 AM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/11/2019 11:14:38 AM - MainPage - INFO: Element Found
+07/11/2019 11:14:38 AM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/11/2019 11:14:38 AM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/11/2019 11:14:38 AM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/11/2019 11:14:38 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/11/2019 11:14:38 AM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/11/2019 11:14:38 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/11/2019 11:14:38 AM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/11/2019 11:14:39 AM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/11/2019 11:14:39 AM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/11/2019 11:14:39 AM - LoginPage - INFO: Element Found
+07/11/2019 11:14:44 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:14:44 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:14:44 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:14:44 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:14:44 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:14:44 AM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:14:47 AM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/11/2019 11:14:50 AM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/11/2019 11:14:50 AM - MainPage - INFO: Element Found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/11/2019 11:14:50 AM - MainPage - INFO: Element Found
+07/11/2019 11:14:53 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:14:53 AM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:14:56 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:14:56 AM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:14:59 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:14:59 AM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:15:02 AM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/11/2019 11:15:02 AM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/11/2019 11:15:02 AM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/11/2019 11:15:02 AM - MainPage - INFO: Element not found
+07/11/2019 11:27:54 AM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/11/2019 11:27:56 AM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/11/2019 11:27:56 AM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/11/2019 11:27:56 AM - MainPage - INFO: Element Found
+07/11/2019 11:27:56 AM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/11/2019 11:27:56 AM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/11/2019 11:27:56 AM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/11/2019 11:27:56 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/11/2019 11:27:56 AM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/11/2019 11:27:56 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/11/2019 11:27:56 AM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/11/2019 11:27:56 AM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/11/2019 11:27:57 AM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/11/2019 11:27:57 AM - LoginPage - INFO: Element Found
+07/11/2019 11:28:02 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:28:02 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:28:02 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:28:02 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:28:02 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:28:02 AM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:28:05 AM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/11/2019 11:28:08 AM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/11/2019 11:28:08 AM - MainPage - INFO: Element Found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/11/2019 11:28:08 AM - MainPage - INFO: Element Found
+07/11/2019 11:28:11 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:28:11 AM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:28:14 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:28:14 AM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:28:17 AM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/11/2019 11:28:17 AM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/11/2019 11:28:23 AM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/11/2019 11:28:23 AM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/11/2019 11:28:26 AM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/11/2019 11:28:26 AM - MainPage - INFO: Element not found
+07/18/2019 03:15:19 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/18/2019 03:15:21 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/18/2019 03:15:21 PM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/18/2019 03:15:21 PM - MainPage - INFO: Element Found
+07/18/2019 03:15:21 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/18/2019 03:15:21 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/18/2019 03:15:22 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/18/2019 03:15:22 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/18/2019 03:15:22 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/18/2019 03:15:22 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/18/2019 03:15:22 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/18/2019 03:15:22 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/18/2019 03:15:23 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/18/2019 03:15:23 PM - LoginPage - INFO: Element Found
+07/18/2019 03:15:28 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:15:28 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:15:28 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:15:28 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:15:28 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:15:28 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:15:31 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/18/2019 03:15:36 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/18/2019 03:15:36 PM - MainPage - INFO: Element Found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/18/2019 03:15:36 PM - MainPage - INFO: Element Found
+07/18/2019 03:17:21 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:17:21 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:17:22 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:17:22 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:27:21 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:27:21 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:27:24 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/18/2019 03:27:24 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/18/2019 03:27:24 PM - MainPage - INFO: Element not found with locator: //*[contains(@class,'search-result-title-nothing-text')]  [contains(text(),'нічого не знайдено, спробуйте змінити запит')] and  locatorType: xpath
+07/18/2019 03:27:24 PM - MainPage - INFO: Element not found
+07/18/2019 03:42:28 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/18/2019 03:42:30 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/18/2019 03:42:30 PM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/18/2019 03:42:30 PM - MainPage - INFO: Element Found
+07/18/2019 03:42:30 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/18/2019 03:42:31 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/18/2019 03:42:31 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/18/2019 03:42:31 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/18/2019 03:42:31 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/18/2019 03:42:31 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/18/2019 03:42:31 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/18/2019 03:42:31 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/18/2019 03:42:32 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/18/2019 03:42:32 PM - LoginPage - INFO: Element Found
+07/18/2019 03:42:37 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:42:37 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:42:37 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:42:37 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:42:37 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 03:42:37 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 03:42:41 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/18/2019 03:52:44 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/18/2019 03:52:44 PM - MainPage - INFO: Element not found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/18/2019 03:52:44 PM - MainPage - INFO: Element not found
+07/18/2019 04:53:28 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/18/2019 04:53:30 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/18/2019 04:53:30 PM - MainPage - INFO: Element Found with locator: //*[contains(text(),' Вітаємо, ')] and  locatorType: xpath
+07/18/2019 04:53:30 PM - MainPage - INFO: Element Found
+07/18/2019 04:53:30 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/18/2019 04:53:31 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/18/2019 04:53:31 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/18/2019 04:53:31 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/18/2019 04:53:31 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/18/2019 04:53:31 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/18/2019 04:53:31 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/18/2019 04:53:32 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/18/2019 04:53:32 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/18/2019 04:53:32 PM - LoginPage - INFO: Element Found
+07/18/2019 04:53:37 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 04:53:37 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 04:53:37 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 04:53:37 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 04:53:37 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/18/2019 04:53:38 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/18/2019 04:53:41 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/18/2019 04:53:46 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/18/2019 04:53:46 PM - MainPage - INFO: Element Found with locator: //*[contains(@class,'rz-search-result-qnty')]  [contains(text(),'Знайдено')] and  locatorType: xpath
+07/18/2019 04:53:46 PM - MainPage - INFO: Element Found
+07/23/2019 11:32:37 AM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 11:32:40 AM - MainPage - INFO: Cannot click on the element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 11:32:43 AM - MainPage - INFO: Element not found
+07/23/2019 11:32:46 AM - LoginPage - INFO: Element not found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 11:32:46 AM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 11:32:49 AM - LoginPage - INFO: Element not found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 11:32:49 AM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 11:32:52 AM - LoginPage - INFO: Element not found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 11:32:52 AM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 11:32:55 AM - LoginPage - INFO: Element not found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 11:32:55 AM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 11:32:59 AM - LoginPage - INFO: Element not found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 11:32:59 AM - LoginPage - INFO: Element not found
+07/23/2019 11:32:59 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 11:32:59 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 11:32:59 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 11:32:59 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 11:32:59 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 11:32:59 AM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 11:33:02 AM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 11:33:07 AM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 11:33:10 AM - MainPage - INFO: Element not found
+07/23/2019 11:49:35 AM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 11:49:38 AM - MainPage - INFO: Cannot click on the element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 11:49:41 AM - MainPage - INFO: Element not found
+07/23/2019 11:49:44 AM - LoginPage - INFO: Element not found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 11:49:44 AM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 11:49:47 AM - LoginPage - INFO: Element not found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 11:49:47 AM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 11:49:50 AM - LoginPage - INFO: Element not found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 11:49:50 AM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 11:49:53 AM - LoginPage - INFO: Element not found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 11:49:53 AM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 11:49:56 AM - LoginPage - INFO: Element not found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 11:49:56 AM - LoginPage - INFO: Element not found
+07/23/2019 11:49:56 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 11:49:57 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 11:49:57 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 11:49:57 AM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 11:49:57 AM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 11:49:57 AM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 11:50:00 AM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 11:50:04 AM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 11:50:07 AM - MainPage - INFO: Element not found
+07/23/2019 12:33:27 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 12:33:30 PM - MainPage - INFO: Cannot click on the element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 12:33:33 PM - MainPage - INFO: Element not found
+07/23/2019 12:33:37 PM - LoginPage - INFO: Element not found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 12:33:37 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 12:33:40 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 12:33:40 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 12:33:43 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 12:33:43 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 12:33:46 PM - LoginPage - INFO: Element not found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 12:33:46 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 12:33:49 PM - LoginPage - INFO: Element not found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 12:33:49 PM - LoginPage - INFO: Element not found
+07/23/2019 12:33:49 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 12:33:49 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 12:33:49 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 12:33:49 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 12:33:49 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 12:33:49 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 12:33:52 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 12:33:57 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 12:34:00 PM - MainPage - INFO: Element not found
+07/23/2019 12:42:03 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 12:42:06 PM - MainPage - INFO: Cannot click on the element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 12:42:10 PM - MainPage - INFO: Element not found
+07/23/2019 12:42:13 PM - LoginPage - INFO: Element not found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 12:42:13 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 12:42:16 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 12:42:16 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 12:42:19 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 12:42:19 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 12:42:22 PM - LoginPage - INFO: Element not found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 12:42:22 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 12:42:25 PM - LoginPage - INFO: Element not found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 12:42:25 PM - LoginPage - INFO: Element not found
+07/23/2019 12:42:25 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 12:42:25 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 12:42:25 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 12:42:25 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 12:42:25 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 12:42:25 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 12:42:28 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 12:42:32 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 12:42:36 PM - MainPage - INFO: Element not found
+07/23/2019 01:26:16 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 01:26:19 PM - MainPage - INFO: Cannot click on the element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 01:26:23 PM - MainPage - INFO: Element not found
+07/23/2019 01:26:26 PM - LoginPage - INFO: Element not found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 01:26:26 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 01:26:29 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 01:26:29 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 01:26:32 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 01:26:32 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 01:26:35 PM - LoginPage - INFO: Element not found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 01:26:35 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 01:26:38 PM - LoginPage - INFO: Element not found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 01:26:38 PM - LoginPage - INFO: Element not found
+07/23/2019 01:26:38 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:26:38 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:26:38 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:26:38 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:26:38 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:26:39 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:26:42 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 01:26:47 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 01:26:50 PM - MainPage - INFO: Element not found
+07/23/2019 01:29:18 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 01:29:21 PM - MainPage - INFO: Cannot click on the element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 01:29:24 PM - MainPage - INFO: Element not found
+07/23/2019 01:29:27 PM - LoginPage - INFO: Element not found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 01:29:27 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 01:29:30 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 01:29:30 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 01:29:33 PM - LoginPage - INFO: Element not found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 01:29:33 PM - LoginPage - INFO: Cannot send data on the element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 01:29:36 PM - LoginPage - INFO: Element not found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 01:29:36 PM - LoginPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 01:29:39 PM - LoginPage - INFO: Element not found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 01:29:39 PM - LoginPage - INFO: Element not found
+07/23/2019 01:29:40 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:29:40 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:29:40 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:29:40 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:29:40 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:29:40 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:29:43 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 01:29:48 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 01:29:51 PM - MainPage - INFO: Element not found
+07/23/2019 01:43:35 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 01:43:37 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 01:43:37 PM - MainPage - INFO: Element Found
+07/23/2019 01:43:37 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 01:43:37 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 01:43:37 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 01:43:38 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 01:43:38 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 01:43:38 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 01:43:38 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 01:43:38 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 01:43:38 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 01:43:38 PM - LoginPage - INFO: Element Found
+07/23/2019 01:43:43 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:43:43 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:43:43 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:43:44 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:43:44 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:43:44 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:43:47 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 01:43:50 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 01:43:50 PM - MainPage - INFO: Element Found
+07/23/2019 01:46:08 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 01:46:10 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 01:46:10 PM - MainPage - INFO: Element Found
+07/23/2019 01:46:10 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 01:46:10 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 01:46:10 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 01:46:10 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 01:46:10 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 01:46:10 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 01:46:10 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 01:46:10 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 01:46:11 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 01:46:11 PM - LoginPage - INFO: Element Found
+07/23/2019 01:46:16 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:46:16 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:46:16 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:46:16 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:46:16 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:46:16 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:46:19 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 01:46:24 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 01:46:24 PM - MainPage - INFO: Element Found
+07/23/2019 01:46:27 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:46:27 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:46:30 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:46:30 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:46:33 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 01:46:33 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 01:46:39 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 01:46:39 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 01:46:42 PM - MainPage - INFO: Element not found
+07/23/2019 02:33:24 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 02:33:26 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 02:33:26 PM - MainPage - INFO: Element Found
+07/23/2019 02:33:26 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 02:33:26 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 02:33:26 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 02:33:26 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 02:33:26 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 02:33:27 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 02:33:27 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 02:33:27 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 02:33:27 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 02:33:27 PM - LoginPage - INFO: Element Found
+07/23/2019 02:33:32 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 02:33:32 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 02:33:32 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 02:33:32 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 02:33:32 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 02:33:32 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 02:33:36 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 02:33:41 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 02:33:41 PM - MainPage - INFO: Element Found
+07/23/2019 02:33:45 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 02:33:45 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 02:33:48 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 02:33:48 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 02:33:51 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 02:33:51 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 02:33:57 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 02:33:57 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 02:34:00 PM - MainPage - INFO: Element not found
+07/23/2019 03:02:59 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 03:03:01 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 03:03:01 PM - MainPage - INFO: Element Found
+07/23/2019 03:03:01 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 03:03:01 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 03:03:01 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 03:03:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 03:03:01 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 03:03:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 03:03:02 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 03:03:02 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 03:03:02 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 03:03:02 PM - LoginPage - INFO: Element Found
+07/23/2019 03:03:07 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:03:07 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:03:07 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:03:07 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:03:07 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:03:07 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:03:11 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 03:03:15 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 03:03:15 PM - MainPage - INFO: Element Found
+07/23/2019 03:03:18 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:03:18 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:03:21 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:03:21 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:03:24 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:03:24 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:03:30 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 03:03:30 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 03:03:34 PM - MainPage - INFO: Element not found
+07/23/2019 03:18:53 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 03:18:55 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 03:18:56 PM - MainPage - INFO: Element Found
+07/23/2019 03:18:56 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 03:18:56 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 03:18:56 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 03:18:56 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 03:18:56 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 03:18:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 03:18:57 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 03:18:57 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 03:18:57 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 03:18:57 PM - LoginPage - INFO: Element Found
+07/23/2019 03:19:02 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:19:02 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:19:02 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:19:02 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:19:02 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:19:03 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:19:06 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 03:19:11 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 03:19:11 PM - MainPage - INFO: Element Found
+07/23/2019 03:19:14 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:19:14 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:19:17 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:19:17 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:19:20 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 03:19:20 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 03:19:26 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 03:19:26 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 03:19:30 PM - MainPage - INFO: Element not found
+07/23/2019 04:24:59 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 04:25:01 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 04:25:01 PM - MainPage - INFO: Element Found
+07/23/2019 04:25:01 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 04:25:01 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 04:25:01 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 04:25:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 04:25:01 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 04:25:01 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 04:25:02 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 04:25:02 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 04:25:02 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 04:25:02 PM - LoginPage - INFO: Element Found
+07/23/2019 04:25:07 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:25:07 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:25:07 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:25:07 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:25:07 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:25:07 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:25:10 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 04:25:16 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 04:25:16 PM - MainPage - INFO: Element Found
+07/23/2019 04:25:19 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:25:19 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:25:22 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:25:22 PM - MainPage - INFO: Cannot click on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:25:26 PM - MainPage - INFO: Element not found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:25:26 PM - MainPage - INFO: Cannot send data on the element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:25:32 PM - MainPage - INFO: Element not found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 04:25:32 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 04:25:35 PM - MainPage - INFO: Element not found
+07/23/2019 04:26:55 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 04:26:57 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 04:26:57 PM - MainPage - INFO: Element Found
+07/23/2019 04:26:57 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 04:26:57 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 04:26:57 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 04:26:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 04:26:57 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 04:26:57 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 04:26:57 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 04:26:58 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 04:26:58 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 04:26:58 PM - LoginPage - INFO: Element Found
+07/23/2019 04:27:03 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:27:03 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:27:03 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:27:03 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:27:03 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 04:27:03 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 04:27:06 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 04:32:06 PM - MainPage - INFO: Cannot click on the element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 04:37:06 PM - MainPage - INFO: Element not found
+07/23/2019 05:30:06 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 05:30:07 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 05:30:07 PM - MainPage - INFO: Element Found
+07/23/2019 05:30:07 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 05:30:08 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 05:30:08 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 05:30:08 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 05:30:08 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 05:30:08 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 05:30:08 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 05:30:08 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 05:30:09 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 05:30:09 PM - LoginPage - INFO: Element Found
+07/23/2019 05:30:14 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:30:14 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:30:14 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:30:14 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:30:14 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:30:14 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:30:17 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 05:30:21 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 05:30:21 PM - MainPage - INFO: Element Found
+07/23/2019 05:30:21 PM - MainPage - INFO: Element Found with locator: //a[@class='social-bind-tiny-close novisited'] and  locatorType: xpath
+07/23/2019 05:30:21 PM - MainPage - INFO: Clicked on element with locator: //a[@class='social-bind-tiny-close novisited'] locatorType: XPATH
+07/23/2019 05:30:21 PM - MainPage - INFO: Element Found with locator: //*[@class='logo-link responsive-img logo-link-svg'] and  locatorType: xpath
+07/23/2019 05:30:23 PM - MainPage - INFO: Clicked on element with locator: //*[@class='logo-link responsive-img logo-link-svg'] locatorType: XPATH
+07/23/2019 05:30:23 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:30:23 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:30:23 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:30:23 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:30:26 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 05:30:28 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 05:30:28 PM - MainPage - INFO: Element Found
+07/23/2019 05:30:28 PM - MainPage - INFO: Element Found with locator: //a[@class='header-user-link sprite-side whitelink xhr'] and  locatorType: xpath
+07/23/2019 05:35:28 PM - MainPage - INFO: Cannot click on the element with locator: //a[@class='header-user-link sprite-side whitelink xhr'] locatorType: XPATH
+07/23/2019 05:40:28 PM - MainPage - INFO: Element not found with locator: //a[@id='profile_signout'] and  locatorType: xpath
+07/23/2019 05:40:28 PM - MainPage - INFO: Cannot click on the element with locator: //a[@id='profile_signout'] locatorType: XPATH
+07/23/2019 05:45:27 PM - MainPage - INFO: Element not found
+07/23/2019 05:48:14 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 05:48:16 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 05:48:16 PM - MainPage - INFO: Element Found
+07/23/2019 05:48:16 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 05:48:16 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 05:48:16 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 05:48:16 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 05:48:16 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 05:48:16 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 05:48:16 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 05:48:17 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 05:48:17 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 05:48:17 PM - LoginPage - INFO: Element Found
+07/23/2019 05:48:22 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:48:22 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:48:22 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:48:22 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:48:22 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:48:22 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:48:25 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 05:48:31 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 05:48:31 PM - MainPage - INFO: Element Found
+07/23/2019 05:48:34 PM - MainPage - INFO: Element Found with locator: //a[@class='social-bind-tiny-close novisited'] and  locatorType: xpath
+07/23/2019 05:48:34 PM - MainPage - INFO: Clicked on element with locator: //a[@class='social-bind-tiny-close novisited'] locatorType: XPATH
+07/23/2019 05:48:34 PM - MainPage - INFO: Element Found with locator: //*[@class='logo-link responsive-img logo-link-svg'] and  locatorType: xpath
+07/23/2019 05:48:36 PM - MainPage - INFO: Clicked on element with locator: //*[@class='logo-link responsive-img logo-link-svg'] locatorType: XPATH
+07/23/2019 05:48:36 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:48:36 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:48:36 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:48:36 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:48:40 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 05:48:41 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 05:48:41 PM - MainPage - INFO: Element Found
+07/23/2019 05:48:41 PM - MainPage - INFO: Element Found with locator: //a[@class='header-user-link sprite-side whitelink xhr'] and  locatorType: xpath
+07/23/2019 05:48:44 PM - MainPage - INFO: Clicked on element with locator: //a[@class='header-user-link sprite-side whitelink xhr'] locatorType: XPATH
+07/23/2019 05:48:44 PM - MainPage - INFO: Element Found with locator: //a[@id='profile_signout'] and  locatorType: xpath
+07/23/2019 05:48:44 PM - MainPage - INFO: Clicked on element with locator: //a[@id='profile_signout'] locatorType: XPATH
+07/23/2019 05:48:46 PM - MainPage - INFO: Element Found
+07/23/2019 05:49:41 PM - MainPage - INFO: Element Found with locator: //a[contains(text(),'UA')] and  locatorType: xpath
+07/23/2019 05:49:43 PM - MainPage - INFO: Clicked on element with locator: //a[contains(text(),'UA')] locatorType: XPATH
+07/23/2019 05:49:43 PM - MainPage - INFO: Element Found
+07/23/2019 05:49:43 PM - LoginPage - INFO: Element Found with locator: //*[@class='header-topline__user-link link-dashed'] and  locatorType: xpath
+07/23/2019 05:49:43 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='header-topline__user-link link-dashed'] locatorType: XPATH
+07/23/2019 05:49:43 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_email'] and  locatorType: xpath
+07/23/2019 05:49:43 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_email'] locatorType: XPATH
+07/23/2019 05:49:43 PM - LoginPage - INFO: Element Found with locator: //*[@id='auth_pass'] and  locatorType: xpath
+07/23/2019 05:49:44 PM - LoginPage - INFO: Sent data on element with locator: //*[@id='auth_pass'] locatorType: XPATH
+07/23/2019 05:49:44 PM - LoginPage - INFO: Element Found with locator: //*[@class='button button_color_navy auth-modal__login-button'] and  locatorType: xpath
+07/23/2019 05:49:44 PM - LoginPage - INFO: Clicked on element with locator: //*[@class='button button_color_navy auth-modal__login-button'] locatorType: XPATH
+07/23/2019 05:49:44 PM - LoginPage - INFO: Element Found with locator: //*[contains(@class,'header-topline__user-link link-dashed')]  [contains(text(),'Roman')] and  locatorType: xpath
+07/23/2019 05:49:44 PM - LoginPage - INFO: Element Found
+07/23/2019 05:49:49 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:49:49 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:49:49 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:49:49 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:49:49 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:49:49 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:49:52 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 05:49:57 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 05:49:57 PM - MainPage - INFO: Element Found
+07/23/2019 05:49:57 PM - MainPage - INFO: Element Found with locator: //a[@class='social-bind-tiny-close novisited'] and  locatorType: xpath
+07/23/2019 05:49:57 PM - MainPage - INFO: Clicked on element with locator: //a[@class='social-bind-tiny-close novisited'] locatorType: XPATH
+07/23/2019 05:49:57 PM - MainPage - INFO: Element Found with locator: //*[@class='logo-link responsive-img logo-link-svg'] and  locatorType: xpath
+07/23/2019 05:49:58 PM - MainPage - INFO: Clicked on element with locator: //*[@class='logo-link responsive-img logo-link-svg'] locatorType: XPATH
+07/23/2019 05:49:58 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:49:59 PM - MainPage - INFO: Clicked on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:49:59 PM - MainPage - INFO: Element Found with locator: // *[ @ name = 'search'] and  locatorType: xpath
+07/23/2019 05:49:59 PM - MainPage - INFO: Sent data on element with locator: // *[ @ name = 'search'] locatorType: XPATH
+07/23/2019 05:50:02 PM - MainPage - INFO: Element Found with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] and  locatorType: xpath
+07/23/2019 05:50:03 PM - MainPage - INFO: Clicked on element with locator: //*[@class='button button_color_green button_size_medium search-form__submit'] locatorType: XPATH
+07/23/2019 05:50:03 PM - MainPage - INFO: Element Found
+07/23/2019 05:50:03 PM - MainPage - INFO: Element Found with locator: //a[@class='header-user-link sprite-side whitelink xhr'] and  locatorType: xpath
+07/23/2019 05:50:06 PM - MainPage - INFO: Clicked on element with locator: //a[@class='header-user-link sprite-side whitelink xhr'] locatorType: XPATH
+07/23/2019 05:50:06 PM - MainPage - INFO: Element Found with locator: //a[@id='profile_signout'] and  locatorType: xpath
+07/23/2019 05:50:06 PM - MainPage - INFO: Clicked on element with locator: //a[@id='profile_signout'] locatorType: XPATH
+07/23/2019 05:50:08 PM - MainPage - INFO: Element Found
