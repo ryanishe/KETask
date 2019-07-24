@@ -1,0 +1,1 @@
+pytest --alluredir /Users/ryani/Automation/KETask/Reports
